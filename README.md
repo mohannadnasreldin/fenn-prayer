@@ -10,7 +10,7 @@ Windows and Python 3 (standard library only; Fenn can install Python for you).
 ## Install
 
 ```powershell
-git clone https://github.com/REPLACE_ME/fenn-prayer.git "$env:APPDATA\Fenn\plugins\prayer"
+git clone https://github.com/mohannadnasreldin/fenn-prayer.git "$env:APPDATA\Fenn\plugins\prayer"
 ```
 
 Or use **Install** on the Fenn marketplace listing once it is reviewed.
