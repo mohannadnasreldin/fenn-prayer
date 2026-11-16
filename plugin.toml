@@ -1,0 +1,12 @@
+# Islamic prayer times for Fenn: next prayer on the tile, day's schedule and
+# Hijri date on the page. Timings from Aladhan (free, no key); city from IP
+# or search. Python, standard library only.
+id = "prayer"
+name = "Prayer"
+icon = "moon-stars"
+size = "wide"
+run = ["python", "main.py"]
+page_size = [400, 360]
+description = "Next prayer and countdown on the tile; today's times, Hijri date, and calculation settings on the page. Free, no key."
+author = "Mohannad"
+version = "1.0.0"
